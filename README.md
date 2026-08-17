@@ -7,7 +7,7 @@ The PINN uses a coordinate-based multilayer perceptron that maps log(Ï„), with Ï
 
 The PINN closely reproduces the reference ROBER trajectory across the full log-time domain, from the fast initial transient to the slow relaxation phase, despite reaction rates that differ by nine orders of magnitude.
 
-![ROBER results](rober_comparison.png)
+![Training progress](assets/training_progress.gif)
  
 
 **References**
